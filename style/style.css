@@ -19,3 +19,24 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.bd-placeholder-img4 {
+    background-image: url(../assets/imgs/churrasco1.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bd-placeholder-img5 {
+    background-image: url(../assets/imgs/bebidas.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bd-placeholder-img6 {
+    background-image: url(../assets/imgs/bebidas.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
