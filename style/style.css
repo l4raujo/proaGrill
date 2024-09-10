@@ -1,0 +1,21 @@
+.bd-placeholder-img1 {
+    background-image: url(../assets/imgs/churrasco2.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.bd-placeholder-img2 {
+    background-image: url(../assets/imgs/churrasco4.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bd-placeholder-img3 {
+    background-image: url(../assets/imgs/churrasco5.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
